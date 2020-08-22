@@ -12,6 +12,6 @@ The second part of the activity was creating a more complicated plot that shows 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Activity_1.2/Activity_1.2_Results/Path_Between_Homes_2.png)
 
 ### Challenge Question
-The final part of the activity which was to increase the scale of the x and y axis along with the number of houses, small trees, and large trees. For this plot there are 50 houses (squares), 40 small trees (smaller cicles), and 12 large trees (larger circles). The curved line now connects 7 houses instead of the original 3. As mentioned earlier, all the points and houses were created through random selection using the sample method.
+The final part of the activity which was to increase the scale of the x and y axis along with the number of houses, small trees, and large trees. For this plot there are 50 houses (squares), 40 small trees (smaller cicles), and 12 large trees (larger circles). The curved line now connects 7 houses instead of the original 3. As mentioned earlier, all the points and houses were created/selected randomly using the sample method.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Activity_1.2/Activity_1.2_Results/Path_Between_Homes_3.png)
