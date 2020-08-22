@@ -3,6 +3,7 @@ Below are the results from following along getting started with R & RStudio.
 
 ### Creating and Plotting Objects
 The first part of the activity was creating a basic plot of a line with points that has labels on the x and y axis along with a title.
+
 ![](https://kelannen.github.io/Agent_Based_Modeling/Activity_1.2/Activity_1.2_Results/Path_Between_Homes_1.png)
 
 ### Creating a More Complicated Plot
