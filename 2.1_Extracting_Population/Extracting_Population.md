@@ -22,4 +22,4 @@ Adding onto the plot from stretch goal 1, this plot adds the administrative subd
 
 This is a gif of the three dimension plot of all log of density population values by the second administrative subdivision level of Cote d'Ivoire.
 
-![](https://kelannen.github.io/Agent_Based_Modeling/2.1_Extracting_Population/cote-divoire-3d-pop19.gif)
+![](https://kelannen.github.io/Agent_Based_Modeling/blob/master/2.1_Extracting_Population/cote-divoire-3d-pop19.gif)
