@@ -3,3 +3,6 @@
 2. [2.1 Spatial Population Description - Administrative Subdivisions](https://kelannen.github.io/Agent_Based_Modeling/2.1_Administrative_Subdivisions/Administrative_Subdivisions)
 3. [2.1 Spatial Population Description - Extracting Population](https://kelannen.github.io/Agent_Based_Modeling/2.1_Extracting_Population/Extracting_Population)
 4. [Project 1](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Project_1)
+
+# Data Science Insights
+1. [Data Science Insights 1] (https://kelannen.github.io/Agent_Based_Modeling/Data_science_insights1)
