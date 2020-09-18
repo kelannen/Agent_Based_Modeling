@@ -5,4 +5,4 @@
 4. [Project 1](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Project_1)
 
 # Data Science Insights
-1. [Data Science Insights 1] (https://kelannen.github.io/Agent_Based_Modeling/Data_science_insights1)
+1. [Data Science Insights 1] (https://kelannen.github.io/Agent_Based_Modeling/data_science_insights1)
