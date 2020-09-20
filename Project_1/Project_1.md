@@ -34,31 +34,44 @@ This is the link to the mp4 file of the 3D population density model of Côte d'I
 
 ## Part 2
 
-### 1
+### Folon Denguélé, Côte d'Ivoire
+
+This plot show the spatial layout of Folon Denguélé, Côte d'Ivoire along with the basic population layout. I decided to start with this adm 2 as it was the least populous adm 2 in Denguélé while still having enough people to describe human settlements and urban areas.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img1.png)
 
-### 2
+This plot is similar to the one above, the only difference is that this one is a real valued pixel image representing a function that describes the probability of the population density at each pixel throughout the entire space.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img2.png)
 
-### 3
+The contour lines denote thresholds for population densities, with brighter colors within representing higher densities. These are the different urban areas I detected in Folon. I decided the value of the contour line levels based on the population and densities of what was and was not included in an iterative process.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img3.png)
 
-### 4
+This plot is similar to the one above, but is a slightly different way of looking at it as it shows
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img4.png)
 
-### 5
+### Urbanized Areas throughout Folon Denguélé, Côte d'Ivoire
+
+This is similar to the plot above however designations of population and density have been added to the depicted urban areas in the one above through the size and color of the dots in the middle of the urban area.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img5.png)
 
-### 6
+### Folon and Kabadougou Denguélé, Côte d'Ivoire
+
+For this plot I added the other adm 2 in Denguélé so that this plot show urban areas with their associated population and density (through the size and color of dots in the middle of designated locations) in both Folon and Kabadougou.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img6.png)
 
-### 7
+
+
+
+
+
+### Zipf's Law
+
+The graph illustrates the log of the population and the rank of urban areas around Denguélé. The data shows follows the general trend of Zipf's law with some deviation as instead of a more linear line we can see more of an arched, polynomial line.
 
 ![](https://kelannen.github.io/Agent_Based_Modeling/Project_1/Part_2/cote_divoire_project1_part2_img7.png)
 
