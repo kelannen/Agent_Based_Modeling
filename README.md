@@ -9,3 +9,4 @@
 1. [Data Science Insights 1](https://kelannen.github.io/Agent_Based_Modeling/data_science_insights1)
 2. [Data Science Insights 2](https://kelannen.github.io/Agent_Based_Modeling/data_science_insights2)
 3. [Data Science Insights 3](https://kelannen.github.io/Agent_Based_Modeling/data_science_insights3)
+4. [Data Science Insights 4](https://kelannen.github.io/Agent_Based_Modeling/data_science_insights4)
