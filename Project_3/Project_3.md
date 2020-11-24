@@ -35,8 +35,8 @@ one administrative subdivision that has the highest in and out migration is Sass
 amount of in migration. The two subdivisions of this level that have the highest out migration excluding Sassandra-Marahoué are Abidjan and Montagnes.
 
 #### In and Out Migration in Côte d'Ivoire
-![](https://kelannen.github.io/Agent_Based_Modeling/Project_3/project_3_image_5.png) | ![](https://kelannen.github.io/Agent_Based_Modeling/Project_3/project_3_image_4.png)
---- | ---
+![](https://kelannen.github.io/Agent_Based_Modeling/Project_3/project_3_image_5.png)
+![](https://kelannen.github.io/Agent_Based_Modeling/Project_3/project_3_image_4.png)
 
 After visualizing the in and out migration across the level one administrative subdivision in Côte d'Ivoire, I downloaded night time light data from WorldPop for Côte d'Ivoire.
 Night time lights were the additional factor I decided to include for the gravity model as it can help determine how developed a certain area is which correlates to factors
